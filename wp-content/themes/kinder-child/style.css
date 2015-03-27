@@ -1,0 +1,19 @@
+@charset 'utf-8';
+/*
+ Theme Name:   Kindergarten Child
+ Theme URI:    http://kinder.themerex.net/
+ Description:  Kindergarten - Multipurpose and Multiskin Responsive Wordpress theme
+ Author:       ThemeREX
+ Author URI:   http://themerex.net
+ Template:     kinder
+ Version:      2.1
+ Tags:         light, inheritable theme-options
+ Text Domain:  themerex
+*/
+
+
+@import url("../kinder/style.css");
+
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */

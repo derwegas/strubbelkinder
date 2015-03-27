@@ -1,0 +1,74 @@
+Version 2.2
+	* Fixed: Autoplay parameter in shortcode [trx_video]
+
+Version 2.1
+	+ Added: Meta tags for correct image sharing in Facebook
+	+ Added: New user authorization method - by email. Now you can log in by username or e-mail.
+	* Fixed: Shortcode "Team item" options window in Visual Composer
+	* Fixed: Theme Slider scaling in responsive resolutions
+	* Fixed: Improve security when importing dummy data
+
+Version 2.0
+	+ Added: New shortcodes support in Visual Composer
+	+ Fixed: Theme Slider and VC Slider compatibility (at the time of placement on the same page)
+
+Version 1.9
+	* Added: WooCommerce shortcodes in the Visual Composer
+
+Version 1.8
+	+ Added: Shortcodes functionality improved
+	+ Added: Main and user menus text color selector
+	+ Added: Widget "ThemeREX Calendar" with Events support
+	* Added: Visual Composer backend editor wrapper.
+	         Now edit pages using visual composer became much more comfortable and more efficient
+	* Fixed: Visual Composer frontend editor compatibility (error 404 on draft posts)
+	* Fixed: Portfolio hover "Shift"
+
+Version 1.7
+	+ Added: Blog and Portfolio functionality improved
+	* Fixed: Parallax video background resize for responsive
+
+Version 1.6
+	+ Added: Video background in the parallax blocks
+	+ Added: Shortcodes functionality improved
+	+ Added: The Events Calendar plugin support
+	+ Added: Media Elements player styles
+	* Fixed: Video frames resize
+
+Version 1.5
+	+ Added: Custom @font-face support. Create your @font-face kit by using Fontsquirrel @font-face Generator 
+	         and then extract the font kit (with folder in the kit) into the "theme_name/css/font-face" folder
+	         to install.
+	+ Added: Theme Options usability increased. Attention! Many option fields are moved into new tabs in Theme Options
+	         for the better usability.
+	+ Added: Sliders and Shortcodes functionality improved
+	+ Added: Last updates for embedded plugins
+	+ Changed: Theme Documentation
+
+Version 1.4
+	+ Fixed: Post ID in the comments form section
+	+ Added: Main Menu icons and description (if Custom menu is enabled)
+	+ Added: Documentation for the theme skin creation
+	+ Added: Widget "Subcategories List" - show all subcategories from selected category
+
+Version 1.3
+	+ Added: More flexible fixed menu management achieved.
+	+ Added: Child theme folder
+	+ Added: New header style - over the main slider (only for "boxed" body style)
+	+ Added: New parameters in some shortcodes
+	+ Added: Many improvements in the mechanism of skin's creation
+	+ Fixed: Detected bugs
+
+Version 1.2
+	+ More flexible logo size and position management achieved.
+	+ Added: Built-in demo data import: one click  - and your website becomes a precise copy of our demo site!
+	+ Added: Flexible child themes support
+
+Version 1.1
+	+ Added: compatibility with Isotope 2 (included into the pack of new versions of Visual Composer)
+	+ Added: import/export of theme settings (as well as of inherited settings for categories, posts, and pages)
+	+ Now there's no limits on the number of pictures to be put out via the Flickr widget.
+    * Fixed: Posts' putout if WPML plugin is activated
+
+Version 1.0
+	Release
