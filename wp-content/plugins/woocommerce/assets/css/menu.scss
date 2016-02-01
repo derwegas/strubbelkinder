@@ -21,9 +21,16 @@
 	font-size: 1.3em !important;
 }
 
-#adminmenu #menu-posts-product .menu-icon-post div.wp-menu-image:before {
+#adminmenu #menu-posts-product .menu-icon-post div.wp-menu-image:before,
+#adminmenu #menu-posts-product .menu-icon-product div.wp-menu-image:before {
 	font-family: 'WooCommerce' !important;
 	content: "\e01d";
+	font-size: 1.3em !important;
+}
+
+#adminmenu #toplevel_page_wc-reports .menu-icon-generic div.wp-menu-image:before {
+	font-family: 'WooCommerce' !important;
+	content: "\e023";
 	font-size: 1.3em !important;
 }
 

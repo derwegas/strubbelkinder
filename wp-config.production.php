@@ -1,4 +1,5 @@
 <?php
+//echo "PROD!";
 /**
  * Production environment config settings
  *
@@ -13,16 +14,16 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'db568160455');
+define('DB_NAME', 'db593214021');
 
 /** MySQL database username */
-define('DB_USER', 'dbo568160455');
+define('DB_USER', 'dbo593214021');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'strubbelkinder');
+define('DB_PASSWORD', 'K1ndergarten!');
 
 /** MySQL hostname */
-define('DB_HOST', 'db568160455.db.1and1.com');
+define('DB_HOST', 'db593214021.db.1and1.com');
 
 /**
  * For developers: WordPress debugging mode.

@@ -24,7 +24,7 @@ switch ($hostname) {
         define('WP_ENV', 'staging');
         break;
     */
-    case 's568104903.online.de':
+    case 'strubbelkinder.de':
     default:
         define('WP_ENV', 'production');
 }
